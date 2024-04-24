@@ -1,0 +1,20 @@
+{
+    "name": "simonlou/auto-mailto",
+    "description": "Automatically add mailto links to all email addresses in Kirby",
+    "type": "kirby-plugin",
+    "require": {
+        "getkirby/cms": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Simon Lou",
+            "email": "mail@simonlou.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "simonlou\\better-typo\\": "src/"
+        }
+    }
+}

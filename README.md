@@ -5,7 +5,13 @@
 
 ## Installation
 
-Just drag the `auto-mailto` folder in your `site/plugins` folder.
+First option is to drag the `auto-mailto` folder in your `site/plugins` folder.
+
+The second option is to install this plugin via Composer:
+
+```terminal
+composer require simonlou/auto-mailto
+```
 
 ## How to Use
 
